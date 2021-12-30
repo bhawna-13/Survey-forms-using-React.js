@@ -1,0 +1,111 @@
+html{
+	background-color:rgb(170, 214, 228);
+}
+.btn{
+	font-family: Verdana;
+	width:20%;
+	height:20%;
+	border-radius:5px 5px 5px 5px;
+	background:rgb(236, 74, 74);
+	padding:10px;
+	font-size:18px;
+	margin-top:3%;
+	border-width: 1px;
+	border-style:solid;
+	border-color: gray;
+	margin-left: 22%;
+}
+.form{
+    margin-left: 25%;
+	margin-top: 2%;
+}
+.firstn{
+	font-size:18px;
+	margin-right: 10%;
+	font-family: Verdana;
+}
+.lastn{
+	font-size:18px;
+	margin-right: 10.3%;
+	font-family: Verdana;
+}
+.age{
+	font-size:18px;
+	margin-right: 15.8%;
+	font-family: Verdana;
+}
+.mem{
+	font-size:18px;
+	margin-right: 14.7%;
+	font-family: Verdana;
+}
+.child{
+	font-size:18px;
+	margin-right: 20.98%;
+	font-family: Verdana;
+}
+.In{
+	font-size:18px;
+	margin-right: 22.57%;
+	font-family: Verdana;
+}
+.no{
+	font-size:18px;
+	margin-right: 14.9%;
+	font-family: Verdana;
+}
+.gen{
+	font-size:18px;
+	margin-right: 23%;
+	font-family: Verdana;
+}
+.emp{
+	font-size:18px;
+	margin-right: 10.9%;
+	font-family: Verdana;
+}
+.loc{
+	font-size:18px;
+	margin-right: 22.8%;
+	font-family: Verdana;
+}
+.aadh{
+	font-size:18px;
+	margin-right: 19.3%;
+	font-family: Verdana;
+}
+h1{
+	margin-top: 2%;
+	font-family: Verdana;
+	margin-left: 36%;
+	text-decoration: underline;
+}
+h3{
+	font-family: Verdana;
+	margin-left: 41%;
+}
+#tf{
+	width:400px;
+	height:10px;
+	border-radius:5px 5px 5px 5px;
+	background:white;
+	padding:10px;
+	font-size:18px;
+	margin-top:8px;
+	border-width: 1px;
+	border-style:solid;
+	border-color: gray;
+	
+}
+#mb{
+	width:400px;
+	height:10px;
+	border-radius:5px 5px 5px 5px;
+	background:white;
+	padding:10px;
+	font-size:18px;
+	margin-top:8px;
+	border-width: 1px;
+	border-style:solid;
+	border-color: gray;
+}
